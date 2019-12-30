@@ -1,0 +1,27 @@
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.factorypath
+/.idea
+/.project
+/.settings
+/nb*
+/release.properties
+/target
+
+# These are needed if running in IDE without properties set
+/ibderby
+derby.log
+/bin/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/
+target/
+.iml
+site/
+travis
+ICLA
+mvnw
+*.cmd
+.gitattributes
+.editorconfig
